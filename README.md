@@ -1,2 +1,3 @@
 The objective of the game is to shoot and destroy the asteroids!
-<img width="1177" height="706" alt="image" src="https://github.com/user-attachments/assets/b1ca1a64-7817-4c1f-93da-a126932a054b" />
+<img width="1235" height="666" alt="image" src="https://github.com/user-attachments/assets/1e262926-968c-4497-9d91-92b6074f3273" />
+
